@@ -1,0 +1,28 @@
+{
+ "info": [
+  {
+    "package_name":"gallery.vault",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "firstpage_fb_random" : "2",
+    "firstpage_fb_duration" : "1000",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-5988694822654170/4599098757",
+    "google_banner" : "ca-app-pub-5988694822654170/6867428629",
+    "fb_ad_interestial" : "",
+    "fb_ad_interestial_duration" : "500",
+    "firstpage_fb_interstrial_ad" : "",
+    "fb_nativebanner" : "",
+    "is_fb_bannerad_show" : "2",
+    "active_banner_ad" : "1",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "1",
+    "new_version_code" : "1",
+    "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "",
+    "customad_pkg" : "com.whatsapp",
+    "cust_isshow" : "false"
+}
+]
+}
